@@ -100,6 +100,6 @@ Jobapp
 This project is licensed under the MIT License.
 
 ---
-### Author
-Your Name - [GitHub Profile](https://github.com/Kumarsanu40437)
+### Author :Kumar Sanu
+[GitHub Profile](https://github.com/Kumarsanu40437)
 
